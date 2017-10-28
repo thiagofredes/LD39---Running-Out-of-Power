@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b4c5230a5f8c9c247893e2e067d9d30f
+timeCreated: 1501439525
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tellural Alt Italic
+  fontNames:
+  - Tellural Alt Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

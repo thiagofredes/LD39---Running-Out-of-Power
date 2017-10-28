@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Wizard.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player.cs" Line="3" Column="19" />
+      <File FileName="Assets\Scripts\Wizard.cs" Line="230" Column="50" />
+      <File FileName="Assets\Scripts\Crystal.cs" Line="35" Column="42" />
+      <File FileName="Assets\Scripts\LookAtObject.cs" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\CrystalManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpawnPointManager.cs" Line="25" Column="16" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="64" Column="20" />
+      <File FileName="Assets\Scripts\Rotate.cs" Line="15" Column="37" />
+      <File FileName="Assets\Scripts\CanvasManager.cs" Line="11" Column="30" />
+      <File FileName="Assets\Scripts\KillByFall.cs" Line="10" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Box Sync\Game Dev\Unity\LD39 - Running Out of Power\Assets\Scripts\KillByFall.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
